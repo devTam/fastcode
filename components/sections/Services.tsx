@@ -35,10 +35,10 @@ export default function Services() {
             viewport={{ once: true, margin: '-100px' }}
           >
             <h2 className="font-display font-bold text-4xl md:text-6xl mb-6 tracking-tight">
-              Software built with <span className="gradient-text italic pr-2">purpose</span>
+              AI-powered delivery, <span className="gradient-text italic pr-2">human craft</span>
             </h2>
             <p className="text-text-muted text-xl leading-relaxed">
-              We don't just write code. We deliver end-to-end solutions that solve real business problems, beautifully.
+              We use AI to move faster on every project — from design exploration to code generation — without sacrificing the quality your users deserve.
             </p>
           </motion.div>
         </div>

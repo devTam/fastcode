@@ -19,7 +19,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-text-muted max-w-sm mb-8 leading-relaxed">
-              We build premium software solutions, breathtaking brand identities, and high-performance mobile apps for forward-thinking companies.
+              An AI-first software agency that helps forward-thinking companies ship faster. We combine AI-powered development with premium design to deliver products in record time.
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social) => (

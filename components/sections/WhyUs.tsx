@@ -6,16 +6,16 @@ import { Zap, Shield, Users, TrendingUp } from 'lucide-react';
 const stats = [
   { value: '50+', label: 'Projects Delivered' },
   { value: '98%', label: 'Client Satisfaction' },
-  { value: '3x', label: 'Average ROI' },
+  { value: '3x', label: 'Faster Delivery' },
   { value: '24h', label: 'Response Time' },
 ];
 
 const reasons = [
   {
     icon: <Zap size={24} className="text-brand-light" />,
-    title: 'Speed Without Compromise',
+    title: 'AI-Accelerated Delivery',
     description:
-      'We ship fast because we plan well. Agile sprints, clear milestones, and zero scope creep keep your timeline on track.',
+      'AI is woven into our entire workflow — from prototyping to production code. What used to take months, we deliver in weeks.',
   },
   {
     icon: <Shield size={24} className="text-brand-light" />,
@@ -51,10 +51,10 @@ export default function WhyUs() {
         >
           <span className="badge mb-6">Why Fastcode</span>
           <h2 className="font-display font-bold text-4xl md:text-6xl tracking-tight mb-6">
-            The agency that <span className="gradient-text italic">gets it done</span>
+            The AI-first agency that <span className="gradient-text italic">ships fast</span>
           </h2>
           <p className="text-text-muted text-xl leading-relaxed">
-            We&apos;re not another dev shop. We&apos;re a team of designers and engineers obsessed with building products that win.
+            We&apos;re not another dev shop. We&apos;re an AI-native team of designers and engineers who use intelligent tooling to help you launch sooner and win faster.
           </p>
         </motion.div>
 

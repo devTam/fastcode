@@ -51,7 +51,7 @@ export default function CTA() {
               transition={{ delay: 0.3 }}
               className="text-white/70 text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed"
             >
-              Let&apos;s turn your vision into a product your users will love. Book a free strategy call — no commitment, just clarity.
+              Let our AI-first team turn your vision into a shipped product — faster than you thought possible. Book a free strategy call — no commitment, just clarity.
             </motion.p>
 
             <motion.div

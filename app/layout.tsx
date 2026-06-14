@@ -9,9 +9,9 @@ import SmoothScroll from '@/components/ui/SmoothScroll';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: 'Fastcode — Software Agency | Apps, Design & Branding',
+  title: 'Fastcode — AI-First Software Agency | Ship Fast',
   description:
-    'Fastcode builds world-class software — from brand identity and logo design to native mobile apps and complex web applications. Partner with us to transform your vision into reality.',
+    'Fastcode is an AI-first software agency that helps you ship faster. We combine AI-powered development with world-class design to deliver mobile apps, web platforms, and brand identities in record time.',
 };
 
 export default function RootLayout({

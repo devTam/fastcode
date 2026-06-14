@@ -25,7 +25,7 @@ const steps = [
     icon: <Code2 size={28} className="text-brand-light" />,
     title: 'Develop',
     description:
-      'Agile sprints with weekly demos. Clean, tested code deployed to staging so you see progress in real time, every week.',
+      'AI-assisted sprints with weekly demos. We leverage intelligent tooling to write, test, and deploy faster — so you see real progress every week.',
     deliverables: ['Sprint Demos', 'Code Reviews', 'QA Testing'],
   },
   {
@@ -53,7 +53,7 @@ export default function Process() {
             From idea to <span className="gradient-text italic">impact</span>
           </h2>
           <p className="text-text-muted text-xl leading-relaxed">
-            A proven four-phase framework that turns ambitious visions into shipped products — on time and on budget.
+            An AI-accelerated four-phase framework that turns ambitious visions into shipped products — in weeks, not months.
           </p>
         </motion.div>
 

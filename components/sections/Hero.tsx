@@ -49,13 +49,13 @@ export default function Hero() {
         <div className="max-w-5xl mx-auto flex flex-col items-start gap-6">
           <div className="badge mb-4">
             <span className="w-2 h-2 rounded-full bg-brand animate-pulse" />
-            Fastcode Software Agency
+            AI-First Software Agency
           </div>
 
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold leading-[1.1] tracking-tighter">
-            <AnimatedText text="We Build Software" el="span" /> <br />
+            <AnimatedText text="We Help You" el="span" /> <br />
             <span className="gradient-text glow-text relative inline-block mt-2">
-              <AnimatedText text="That Moves" el="span" />
+              <AnimatedText text="Ship Fast" el="span" />
               {/* Decorative line under "That Moves" */}
               <motion.svg
                 className="absolute -bottom-4 left-0 w-full h-8 text-brand"
@@ -76,7 +76,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.8 }}
             className="text-lg md:text-2xl text-text-muted max-w-2xl mt-6 leading-relaxed"
           >
-            Premium design and powerful engineering for companies who refuse to blend in. Mobile apps, web platforms, and world-class branding.
+            We&apos;re an AI-first agency that uses cutting-edge AI to accelerate every stage of development — so you launch mobile apps, web platforms, and brand identities in weeks, not months.
           </motion.p>
 
           <motion.div

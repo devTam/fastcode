@@ -67,7 +67,7 @@ export default function Contact() {
               Let&apos;s build your <span className="gradient-text italic">next big thing</span>
             </h2>
             <p className="text-text-muted text-xl leading-relaxed mb-12">
-              Tell us about your project and we&apos;ll get back to you within 24 hours with a tailored plan.
+              Tell us about your project and we&apos;ll get back to you within 24 hours with an AI-accelerated delivery plan tailored to your timeline.
             </p>
 
             <div className="space-y-6">
